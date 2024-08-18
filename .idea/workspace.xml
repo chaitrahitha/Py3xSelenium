@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e2fb425-9a7c-49dc-9a4b-53cd4bf4de3a" name="Changes" comment="Done">
-      <change afterPath="$PROJECT_DIR$/Mini_webproject#4/allurereports/379c42e7-6959-4da9-8ac5-14541b865c33-result.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/09082024/test_Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/09082024/test_Lab004.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Mini_project#3/test_project#3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mini_project#3/test_project#3.py" afterDir="false" />
@@ -38,14 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python tests.Python tests in test_project#3.py.executor&quot;: &quot;Run&quot;,
-    &quot;Python tests.Python tests in test_project#4.py.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests in test_project#3.py.executor": "Run",
+    "Python tests.Python tests in test_project#4.py.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\PycharmProjects\Py3xSelenium" />
@@ -99,7 +99,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723573899424</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Done">
+      <option name="closed" value="true" />
+      <created>1723959140531</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1723959140531</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
